@@ -19,6 +19,7 @@ Hybrid recommendations combining multiple techniques
 │   └── amazon.csv
 ├── codes/
 ├── sample recommendations/
+├── references  # includes the link of chats with chatgpt
 └── README.md
 ```
 # 🧠 Recommendation Approaches
